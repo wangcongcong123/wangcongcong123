@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working as a PhD candidate in [Univeristy College Dublin](https://www.ucd.ie/).
+- 🌱 I’m currently learning from [🤗Transformers](https://github.com/huggingface/transformers) and [AI2](https://allenai.org/).
+- 👯 I’m looking to collaborate on using computational linguistical techniques for emergency response. 
+- 🤔 I’m looking for help with computational resources for training models (sometimes large) on large-scale dataset.
+- 💬 Ask me about NLP, IR or Social Media analysis relevant questions.
+- 📫 How to reach me: my email: wangcongcongcc@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I maintain [a personal website](https://wangcongcong123.github.io/) for sharing my updates on research or other interesting stuff.
