@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about NLP, IR or Social Media analysis relevant questions.
 - 📫 How to reach me: my email: wangcongcongcc@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I maintain [a personal website](https://wangcongcong123.github.io/) for sharing my updates on research or other interesting stuff.
+- ⚡ I maintain [a personal website](https://wangcongcong123.github.io/) for sharing my updates on research or other interesting stuff.
