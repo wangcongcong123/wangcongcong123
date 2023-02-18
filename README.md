@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 
 - 🔭 I passed my PhD Viva on 7th Feb, 2023 in [Univeristy College Dublin](https://www.ucd.ie/).
-- 🌱 I’m currently learning from [🤗Transformers](https://github.com/huggingface/transformers) and [AI2](https://allenai.org/).
-- 👯 I’m looking to collaborate on using computational linguistical techniques for emergency response. 
+- 🌱 I am learning a lot from [🤗Transformers](https://github.com/huggingface/transformers) and [OpenAI](https://openai.com/).
+- 👯 I’m looking to collaborate on using computational linguistical techniques for long-document hierarchical multi-label classification. 
 - 🤔 I’m looking for help with computational resources for training models (sometimes large) on large-scale dataset.
 - 💬 Ask me about NLP, IR or Social Media analysis relevant questions.
 - 📫 How to reach me: my email: wangcongcongcc@gmail.com
