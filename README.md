@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwangcongcong123&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-- 🔭 I’m currently working as a PhD candidate in [Univeristy College Dublin](https://www.ucd.ie/).
+- 🔭 I passed my PhD Viva on 7th Feb, 2023 in [Univeristy College Dublin](https://www.ucd.ie/).
 - 🌱 I’m currently learning from [🤗Transformers](https://github.com/huggingface/transformers) and [AI2](https://allenai.org/).
 - 👯 I’m looking to collaborate on using computational linguistical techniques for emergency response. 
 - 🤔 I’m looking for help with computational resources for training models (sometimes large) on large-scale dataset.
